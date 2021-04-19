@@ -133,6 +133,7 @@ class Bd {
     }
 }
 
+//intanciando a notacao do json para a o objeto do js
 let bd = new Bd()
 
 
