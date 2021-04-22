@@ -1,8 +1,10 @@
-<h1 align="center">
-Orçamento pessoal
-</h1>
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="logo.png" alt="Logo" width="70" height="40">
+  </a>
 
-<p align="center">Sistema de consulta e registro de despesas</p>
+  <h3 align="center">Orçamento Pessoal</h3>
+</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -12,10 +14,15 @@ Orçamento pessoal
 
 ## Sobre o projeto
 ### Tela de consulta
+
 <img src="/tela-consulta-despesas.PNG" ></img>
+
 ### Tela de registro
+
 <img src="/tela-registro-despesa.PNG" ></img>
+
 ### Recursos
+
 Esses foram os recursos usados para o desenvolvimento:
 
 - **HTML5** 
@@ -23,6 +30,7 @@ Esses foram os recursos usados para o desenvolvimento:
 - **JavaScript**
 
 ### Objetivo
+
 Objetivo do site é registrar todas as despesas feita e poder consulta-las depois.
 
 ## License
