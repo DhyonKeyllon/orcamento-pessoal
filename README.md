@@ -11,7 +11,10 @@ Orçamento pessoal
 </p>
 
 ## Sobre o projeto
+### Tela de consulta
 <img src="/tela-consulta-despesas.PNG" ></img>
+### Tela de registro
+<img src="/tela-registro-despesa.PNG" ></img>
 ### Recursos
 Esses foram os recursos usados para o desenvolvimento:
 
