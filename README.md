@@ -13,7 +13,7 @@ Orçamento pessoal
 </p>
 
 ## Sobre o projeto
-<img src="tela-consulta-despesas.png" ></img>
+<img src="" ></img>
 ### Recursos
 Esses foram os recursos usados para o desenvolvimento:
 
