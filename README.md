@@ -1,10 +1,8 @@
-# orcamento-pessoal
- Sistema de orçamento de despesas.
 <h1 align="center">
 Orçamento pessoal
 </h1>
 
-<p align="center">Clone do Spotify criado do zero</p>
+<p align="center">Sistema de consulta e registro de despesas</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -13,7 +11,7 @@ Orçamento pessoal
 </p>
 
 ## Sobre o projeto
-<img src="/tela-consulta-despesas" ></img>
+<img src="/tela-consulta-despesas.png" ></img>
 ### Recursos
 Esses foram os recursos usados para o desenvolvimento:
 
