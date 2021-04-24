@@ -1,0 +1,9 @@
+{
+  "name": "orcamento-pessoal",
+  "version": "1.0.0",
+  "description": "App para consulta de orçamento pessoal",
+  "main": "index.html",
+  "repository": "https://github.com/DhyonKeyllon/orcamento-pessoal.git",
+  "author": "Dhyon Keyllo <dhyon.kpm@hotmail.com>",
+  "license": "MIT"
+}

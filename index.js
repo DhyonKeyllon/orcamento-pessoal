@@ -1,0 +1,1 @@
+// esse js está em desenvolvimento para iniciar atraves do terminal
