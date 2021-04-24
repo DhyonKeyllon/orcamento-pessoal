@@ -205,7 +205,7 @@ function cadastrarDespesa() {
     }
 }
 
-// a function carregaListaDespesas vai carregar as despesas, excluir e filtralas
+// a function carregaListaDespesas vai carregar as despesas, excluir e filtra-las
 function carregaListaDespesas(despesas = Array(), filtro = false) {
     // verificar se é um filtro antes de exibir todos os registro
     if (despesas.length == 0 && filtro == false) {
